@@ -1,5 +1,6 @@
 # Heart-Disease-Analysis-Power-BI-Project
-![Dashboard](Heart%20Disease%20Analysis%20Dashboard.PNG)
+<img width="893" height="495" alt="Heart Disease Analysis Dashboard" src="https://github.com/user-attachments/assets/94fa0f42-219b-4033-ae53-92fcd04dbe51" />
+
 
 ---
 
