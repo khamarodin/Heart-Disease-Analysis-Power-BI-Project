@@ -23,13 +23,15 @@ This **Power BI Report** provides an end-to-end analysis of **Heart Disease Pati
 ## Key Insights
 
 ### Male Patients
-![Male](Heart%20Disease%20Male%20Insights.PNG)
+<img width="892" height="487" alt="Heart Disease Male Insights" src="https://github.com/user-attachments/assets/216e9fbe-aceb-4761-9907-10daaf45664c" />
+
 - Higher occurrence rate observed in **middle-aged male patients** (40–60 years).  
 - **Elevated cholesterol and resting BP** are major contributing factors.  
 - Lower survival rate in patients with **low ejection fraction**.
 
 ### Female Patients
-![Female](Heart%20Disease%20Female%20Insights.PNG)
+<img width="900" height="495" alt="Heart Disease Female Insights" src="https://github.com/user-attachments/assets/c7e104a3-09bc-4242-a848-9dc650dce79f" />
+
 - Females show **fewer heart disease cases**, but higher survival probability.  
 - Key risk indicators include **serum creatinine and age**.  
 - Lifestyle-based prevention can significantly reduce hospitalization rates.
@@ -103,9 +105,7 @@ Author: Sudowoodo
 **Created by:** *Khamaroddin Shekh*  
 
 
----
 
-⭐ *If you find this project helpful, give it a star on GitHub!* 
 
 
 
